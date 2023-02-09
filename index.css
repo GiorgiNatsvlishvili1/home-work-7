@@ -1,0 +1,176 @@
+
+
+
+.bordi {
+    border: 10px;
+    background-color:crimson;
+}
+
+
+body {
+    padding-left: 109px;
+    padding-top: 89px;
+    padding-right: 108px;
+    padding-bottom: 90px;
+}
+
+
+
+
+
+
+
+
+.flex-container {
+    margin-top: 89px;
+    margin-left: 109px;
+    margin-right: 108px;
+    margin-bottom: 90px;
+}
+
+b {
+font-size: 24px;
+}
+
+
+
+
+
+
+.satauri2 {
+margin-left: 25px;
+}
+
+
+
+.tskhrili1 {
+    background-color: #fafafa;
+   
+    width: 1223px;
+    height: 84px;
+    margin-top: 89px;
+    margin-left: 25px;
+    
+}
+ .tskhrili3 {
+    background-color: #fafafa;
+   
+    width: 1223px;
+    height: 400px;
+    padding-right: 10px;
+
+ }
+
+
+.search {
+    background-color: #FFDD04;
+    width: 141px;
+    height: 50px;
+    margin-left: 79px;
+    
+}
+
+.createuser {
+    background-color: #FFDD04;
+    width: 141px;
+    height: 40px;
+    margin-left: 1030px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+.witeli {
+    background-color: #FF8271;
+    width: 93px;
+    height: 33px;
+}
+.yviteli {
+    background-color: #FFDD04;
+    width: 93px;
+    height: 33px;
+    
+}
+
+tr > th {
+    background-color: white;
+   
+    width: 1523px;
+    height: 65px;
+    margin-top: 89px;
+    
+}
+ 
+
+
+
+
+input {
+
+    border-radius: 10px;
+    width: 141px;
+    height: 50px;
+}
+
+.name {
+    width: 359px;
+    height: 50px;
+    
+}
+.email {
+    width: 266px;
+    height: 50px;
+    margin-left: 47px;
+}
+.mobile {
+    width: 217px;
+    height: 50px;
+    margin-left: 50px;
+}
+
+
+
+
+
+.tskhrili3 >tr >td  {
+padding: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid #ededed;
+
+
+}
+
+.container {
+    display:flex;
+    margin-top: 60px;
+    
+}
+
+
+
+.tskhrili1 > tr > td {
+    padding: 10px;
+}
+
+
+.satauri > tr > th {
+    text-align: left;
+    padding: 10px;
+}
+
+.satauri2 > tr > th {
+    text-align: left;
+    padding: 10px;
+}
+
+tr {
+    border: 1px solid #ededed;
+
+}
